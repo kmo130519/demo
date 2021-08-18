@@ -1,5 +1,0 @@
-datasource:
-    url: jdbc:mysql://i5a405.p.ssafy.io:3306/goodtosee?useUnicode=true&characterEncoding=utf8&serverTimezone=Asia/Seoul&zeroDateTimeBehavior=convertToNull&rewriteBatchedStatements=true
-    hikari:
-      username: root
-      password: km514900@
